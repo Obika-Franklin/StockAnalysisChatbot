@@ -1,6 +1,6 @@
 # Stock Analysis Chatbot
 
-![Alt text](image_url)
+![Alt text](https://github.com/Obika-Franklin/StockAnalysisChatbot/blob/main/6256878.jpg)
 
 In an era where information is paramount, understanding the stock market can feel like navigating a dense and ever-shifting landscape. That's why I embarked on a fascinating project: building an intelligent stock analysis chatbot – a digital companion designed to make market insights more accessible and understandable to anyone, anywhere.
 
